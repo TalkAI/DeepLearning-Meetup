@@ -1,2 +1,2 @@
 # DeepLearning-Meetup
-Presentations and code reviewed at DeepLearning with MXNet meetups in 2018
+Presentations and code reviewed and at DeepLearning with MXNet meetups in 2018. For past and upcoming meetups, please see [Deep Learning with MXNet](https://www.meetup.com/pro/deep-learning-with-apache-mxnet). You can also find slides at [Apache MXNet Slideshare](https://www.slideshare.net/apachemxnet), [Apache MXNet Wiki](https://cwiki.apache.org/confluence/display/MXNET/Meetups+and+Hangouts) or at [TalkAI](https://github.com/TalkAI/DeepLearning-Meetup)
